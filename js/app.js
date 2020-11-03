@@ -17,8 +17,6 @@
         notification.addEventListener('click', () => {
             window.open('https://www.netmagik.com');
         });
-
-        notification.onclick = () => window.open('https://www.netmagik.com');
     }
 
         // show an error message
