@@ -5,7 +5,7 @@
         // create notification
         const notification = new Notification('JS Notification API Demo', {
             body: 'Simple Demo-CLICK ME!!!!',
-            icon: './img/js.png'
+            icon: './img/irina.jpg'
         });
         
         // close the notification after 10 secons
