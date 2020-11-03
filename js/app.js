@@ -3,8 +3,8 @@
     // create and show notification
     const showNotification = () => {
         // create notification
-        const notification = new Notification('JS Notification API Demo', {
-            body: 'Simple Demo-CLICK ME!!!!',
+        const notification = new Notification('Click Me!!JS Notification API Demo', {
+            body: 'CLICK ME!!!!',
             icon: './img/irina.jpg'
         });
         
