@@ -4,7 +4,7 @@
     const showNotification = () => {
         // create notification
         const notification = new Notification('JS Notification API Demo', {
-            body: 'Simple Demo',
+            body: 'Simple Demo-CLICK ME!!!!',
             icon: './img/js.png'
         });
         
